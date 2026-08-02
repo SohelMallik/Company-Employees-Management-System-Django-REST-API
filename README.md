@@ -33,6 +33,42 @@ The project follows Django's **MVT (Model-View-Template)** architecture and leve
 
 ---
 
+## 📸 Project Screenshots
+
+### 🔐 Django Admin Login Page
+
+![Django Admin Login Page](https://github.com/SohelMallik/Company-Employees-Management-System-Django-REST-API/blob/f625018a6c9e3ab4dc514566cd63914a2d382373/Screenshot/admin_login_page.png)
+
+---
+
+### 🖥️ Django Admin Dashboard
+
+![Django Admin Dashboard](https://github.com/SohelMallik/Company-Employees-Management-System-Django-REST-API/blob/f625018a6c9e3ab4dc514566cd63914a2d382373/Screenshot/Django%20Admin%20Dashboard.png)
+
+---
+
+### 🏢 Companies List (Admin)
+
+![Companies List Admin](https://github.com/SohelMallik/Company-Employees-Management-System-Django-REST-API/blob/f625018a6c9e3ab4dc514566cd63914a2d382373/Screenshot/Companies%20List%20(Admin).png)
+
+---
+
+### ➕ Company Create Form
+
+![Company Create Form](https://github.com/SohelMallik/Company-Employees-Management-System-Django-REST-API/blob/f625018a6c9e3ab4dc514566cd63914a2d382373/Screenshot/company_create_form.png)
+
+---
+
+### 👥 Employees List (Admin)
+
+![Employees List Admin](https://github.com/SohelMallik/Company-Employees-Management-System-Django-REST-API/blob/f625018a6c9e3ab4dc514566cd63914a2d382373/Screenshot/Employees%20List%20(Admin).png)
+
+---
+
+### ➕ Employee Create Form
+
+![Employee Create Form](https://github.com/SohelMallik/Company-Employees-Management-System-Django-REST-API/blob/f625018a6c9e3ab4dc514566cd63914a2d382373/Screenshot/employee_create_form.png)
+
 ## Features
 
 ### Company Management
