@@ -17,7 +17,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 
-from companyapi.views import home_page, company_list
+from company_Employee_api.views import home_page, company_list
 
 urlpatterns = [
     path('admin/', admin.site.urls),
