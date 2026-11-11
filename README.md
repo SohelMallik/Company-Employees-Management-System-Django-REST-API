@@ -627,7 +627,6 @@ https://www.linkedin.com
 
 * Django Development Team
 * Django REST Framework Team
-* Open Source Community
 
 ---
 
